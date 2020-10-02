@@ -47,5 +47,4 @@ Temporary Items
 .apdisk
 .idea/
 yarn.lock
-node_modules/
-config/default.json5
+

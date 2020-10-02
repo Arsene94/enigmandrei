@@ -1,0 +1,14 @@
+{
+  options: {
+    debug: true
+  },
+  connection: {
+    cluster: "aws",
+    reconnect: true
+  },
+  bot: {
+    username: "EnigmAndreiBot",
+    oauth_token: "oauth:24qy8ze2fau0r2l8rhqiias3o10x7e" // Login via bot & generate here https://twitchapps.com/tmi/
+  },
+  channel: "enigmandrei"
+}
