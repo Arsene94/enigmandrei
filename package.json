@@ -1,0 +1,17 @@
+{
+  "name": "TwitchBot",
+  "version": "1.0.0",
+  "description": "This is a twitch bot",
+  "main": "bot.js",
+  "scripts": {
+	"start": "node bot.js"
+  },
+  "author": "BocaLee",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.0.1",
+    "fs": "0.0.1-security",
+    "mysql": "^2.18.1",
+    "tmi.js": "^1.4.2"
+  }
+}

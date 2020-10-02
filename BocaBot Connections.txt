@@ -1,0 +1,5 @@
+gmail: bocaleebot@gmail.com
+password: motoscuterr2
+
+Twitch: bocaleebot
+Password: motoscuterr2
